@@ -1,7 +1,7 @@
 opensearch-extensions
 ==========================
 
-Some (well, _two_ right now) search extensions made for OpenSearch (Fx/IE/Cr)
+Some (well, _three_ right now) search extensions made for OpenSearch (Fx/IE/Cr)
 
 These were done with only moderate experience using OpenSearch, so there may be glaring inefficiencies or inelegancies about them. Please help improve them.
 
@@ -28,3 +28,6 @@ JSTOR
 
 Gallica (Bibliothèque National de France digitized content)
 `javascript:window.external.AddSearchProvider('https://raw.github.com/triplingual/opensearch-extensions/master/gallica-tout.xml');`
+
+HathiTrust
+`javascript:window.external.AddSearchProvider('https://raw.github.com/triplingual/opensearch-extensions/master/hathitrust.xml');`
