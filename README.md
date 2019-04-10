@@ -31,3 +31,16 @@ Gallica (Bibliothèque National de France digitized content)
 
 HathiTrust
 `javascript:window.external.AddSearchProvider('https://raw.github.com/triplingual/opensearch-extensions/master/hathitrust.xml');`
+
+TODO
+-------
+
+[Epicurious](https://epicurious.com)
+
+[AllMusic](https://allmusic.com)
+
+[Google Scholar](https://scholar.google.com)
+
+[Worldcat](https://worldcat.org) (remembering that this search didn't do well with accented Latin)
+
+Fix to Gallica, which extension is not loading
