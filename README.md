@@ -27,7 +27,7 @@ JSTOR
 `javascript:window.external.AddSearchProvider('https://raw.github.com/triplingual/opensearch-extensions/master/jstor.xml');`
 
 Gallica (Bibliothèque National de France digitized content)
-`javascript:window.external.AddSearchProvider('https://raw.github.com/triplingual/opensearch-extensions/master/gallica-tout.xml');`
+`javascript:window.external.AddSearchProvider('https://raw.github.com/triplingual/opensearch-extensions/master/gallica.xml');`
 
 HathiTrust
 `javascript:window.external.AddSearchProvider('https://raw.github.com/triplingual/opensearch-extensions/master/hathitrust.xml');`
