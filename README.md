@@ -9,7 +9,7 @@ These were done with only moderate experience using OpenSearch, so there may be 
 Add to Chrome
 -------------
 
-1. Paste the appropriate line below in your address bar, then type `javascript:` in front of it (Chrome strips out that part when you paste), then press enter.
+1. Paste the appropriate line below in your address bar, then type `javascript:` in front of it (Chrome may strip out that part when you paste), then press enter.
 1. In the popup, it's recommended to set a keyword
 
 
