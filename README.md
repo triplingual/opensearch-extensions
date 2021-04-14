@@ -1,7 +1,10 @@
 opensearch-extensions
 ==========================
 
-Some (well, _three_ right now) search extensions made for OpenSearch (Fx/IE/Cr)
+**AddSearchProvider [got deprecated a long time ago](https://github.com/whatwg/html/issues/713) (showing how often I've updated these). I'll leave this page as is until I figure out what to do (which may be an equally long time).**
+
+
+Some (well, _five_ right now) search extensions made for OpenSearch (Fx/IE/Cr)
 
 These were done with only moderate experience using OpenSearch, so there may be glaring inefficiencies or inelegancies about them. Please help improve them.
 
@@ -31,6 +34,12 @@ Gallica (Bibliothèque National de France digitized content)
 
 HathiTrust
 `javascript:window.external.AddSearchProvider('https://raw.github.com/triplingual/opensearch-extensions/master/hathitrust.xml');`
+
+Flickr CreativeCommons
+`javascript:window.external.AddSearchProvider('https://raw.githubusercontent.com/triplingual/opensearch-extensions/master/flickr-cc.xml');`
+
+Twitter Latest
+`javascript:window.external.AddSearchProvider('https://raw.githubusercontent.com/triplingual/opensearch-extensions/master/twitter.xml');`
 
 TODO
 -------

@@ -1,0 +1,14 @@
+<OpenSearchDescription>
+	<!-- Created on Wed, 28 Dec 2011 00:39:37 GMT -->
+	<ShortName>Twitter - Latest</ShortName>
+	<Description>Twitter search, going directly to the Latest tab</Description>
+	<Url type="text/html" method="get" template="https://twitter.com/search?f=live&q={searchTerms}"/>
+	<Image width="16" height="16">
+		https://mycroftproject.com/updateos.php/id0/twitterrealtime.ico
+	</Image>
+	<Developer>maxelo</Developer>
+	<Developer>triplingual</Developer>
+	<InputEncoding>UTF-8</InputEncoding>
+	<moz:SearchForm>https://twitter.com/search</moz:SearchForm>
+	<Url type="application/opensearchdescription+xml" rel="self" template=""/>
+</OpenSearchDescription>
